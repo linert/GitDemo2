@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
+    NSLog(@"my second gitdemo");
 }
 
 - (void)didReceiveMemoryWarning {

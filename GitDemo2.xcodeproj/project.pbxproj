@@ -19,6 +19,7 @@
 		6D3351121D3732BC007D89E6 /* ViewController4.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D3351111D3732BC007D89E6 /* ViewController4.m */; };
 		6D3351151D3732C4007D89E6 /* ViewController5.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D3351141D3732C4007D89E6 /* ViewController5.m */; };
 		6D3351181D3732CC007D89E6 /* ViewController6.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D3351171D3732CC007D89E6 /* ViewController6.m */; };
+		6D33511B1D37342A007D89E6 /* m1.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D33511A1D37342A007D89E6 /* m1.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,8 @@
 		6D3351141D3732C4007D89E6 /* ViewController5.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController5.m; sourceTree = "<group>"; };
 		6D3351161D3732CC007D89E6 /* ViewController6.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController6.h; sourceTree = "<group>"; };
 		6D3351171D3732CC007D89E6 /* ViewController6.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController6.m; sourceTree = "<group>"; };
+		6D3351191D37342A007D89E6 /* m1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = m1.h; path = ../../../../../mizi/Desktop/GitDemo2/GitDemo2/C/m1.h; sourceTree = "<group>"; };
+		6D33511A1D37342A007D89E6 /* m1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = m1.m; path = ../../../../../mizi/Desktop/GitDemo2/GitDemo2/C/m1.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +110,8 @@
 				6D3351081D3732A4007D89E6 /* ViewController1.m */,
 				6D33510A1D3732AB007D89E6 /* ViewController2.h */,
 				6D33510B1D3732AB007D89E6 /* ViewController2.m */,
+				6D3351191D37342A007D89E6 /* m1.h */,
+				6D33511A1D37342A007D89E6 /* m1.m */,
 			);
 			path = C;
 			sourceTree = "<group>";
@@ -206,6 +211,7 @@
 				6D3351151D3732C4007D89E6 /* ViewController5.m in Sources */,
 				6D3351091D3732A4007D89E6 /* ViewController1.m in Sources */,
 				6D3351181D3732CC007D89E6 /* ViewController6.m in Sources */,
+				6D33511B1D37342A007D89E6 /* m1.m in Sources */,
 				6D3350F51D37325B007D89E6 /* ViewController.m in Sources */,
 				6D33510F1D3732B4007D89E6 /* ViewController3.m in Sources */,
 				6D33510C1D3732AB007D89E6 /* ViewController2.m in Sources */,
@@ -360,6 +366,7 @@
 				6D3351031D37325B007D89E6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
